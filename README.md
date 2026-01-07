@@ -60,7 +60,7 @@ It is a publicly available dataset commonly used for learning data analysis.
 
 - Matplotlib and Seaborn were used to create simple and clear charts, including:
 
--Age distribution
+- Age distribution
 
 - Passenger gender counts
 
