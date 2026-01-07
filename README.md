@@ -85,11 +85,7 @@ It is a publicly available dataset commonly used for learning data analysis.
 The project highlights how demographic and economic factors played a major role in survival outcomes on the Titanic.
 Through data cleaning and visualization, the analysis provides clear and easy-to-understand insights into the dataset.
 
-📁 Project Structure
-├── README.md
-├── titanic.csv
-├── EDA_Titanic.ipynb
-└── images/ (optional plots)
+
 
 🚀 How to Run the Project
 
