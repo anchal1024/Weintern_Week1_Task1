@@ -7,78 +7,78 @@ The goal is to understand key patterns in the data, clean missing information, v
 
 The dataset contains passenger details such as:
 
-Age
+- Age
 
-Gender
+- Gender
 
-Passenger class
+- Passenger class
 
-Fare
+- Fare
 
-Number of family members
+- Number of family members
 
-Survival status
+- Survival status
 
 It is a publicly available dataset commonly used for learning data analysis.
 
 🛠️ Technologies Used
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 📌 Steps Performed
 1. Data Loading
 
-The dataset was imported into a Pandas DataFrame for inspection and processing.
+- The dataset was imported into a Pandas DataFrame for inspection and processing.
 
 2. Data Cleaning
 
-Missing values in Age were filled using the average age.
+- Missing values in Age were filled using the average age.
 
-Missing values in Embarked were filled using the most common entry.
+- Missing values in Embarked were filled using the most common entry.
 
-The Cabin column was removed due to many missing values.
+- The Cabin column was removed due to many missing values.
 
-Duplicate rows were checked and removed.
+- Duplicate rows were checked and removed.
 
 3. Exploratory Analysis
 
-Basic statistics were generated to understand numerical features.
+- Basic statistics were generated to understand numerical features.
 
-Visualizations such as histograms, count plots, and boxplots were created.
+- Visualizations such as histograms, count plots, and boxplots were created.
 
-Relationships between variables were studied using grouped plots and correlation heatmaps.
+- Relationships between variables were studied using grouped plots and correlation heatmaps.
 
 4. Visualization
 
-Matplotlib and Seaborn were used to create simple and clear charts, including:
+- Matplotlib and Seaborn were used to create simple and clear charts, including:
 
-Age distribution
+-Age distribution
 
-Passenger gender counts
+- Passenger gender counts
 
-Survival comparison by gender
+- Survival comparison by gender
 
-Age vs. survival patterns
+- Age vs. survival patterns
 
-Correlation heatmap for numeric features
+- Correlation heatmap for numeric features
 
 5. Key Insights
 
-Female passengers had a higher chance of survival.
+- Female passengers had a higher chance of survival.
 
-First-class passengers survived more frequently than other classes.
+- First-class passengers survived more frequently than other classes.
 
-Higher fares were generally linked with higher survival chances.
+- Higher fares were generally linked with higher survival chances.
 
-Younger passengers tended to have slightly better outcomes.
+- Younger passengers tended to have slightly better outcomes.
 
 6. Summary
 
